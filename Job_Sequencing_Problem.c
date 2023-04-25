@@ -1,3 +1,5 @@
+https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
